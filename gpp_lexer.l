@@ -1,7 +1,6 @@
-/**********************************
-;* CSE341 - Programming Languages *
-;* 161044105 HALİL İBRAHİM KÖSE   *
-;**********************************/
+                              
+;* 161044105 HALİL İBRAHİM KÖSE  *
+
  #include <ctype.h>
  
 %{ 
